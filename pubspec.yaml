@@ -1,0 +1,51 @@
+name: arcella
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # client
+  dio: ^5.2.1+1
+  awesome_dio_interceptor: ^1.0.0
+  retrofit: ^4.0.1
+
+  # state management
+  hooks_riverpod: ^2.3.6
+  riverpod_annotation: ^2.1.1
+  flutter_hooks: ^0.18.6
+
+  # models
+  freezed_annotation: ^2.2.0
+  json_annotation: ^4.8.1
+
+  # localization
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  
+  gap: ^3.0.0
+  form_validator: ^2.1.1
+  google_fonts: ^5.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  custom_lint: ^0.4.0
+  riverpod_lint: ^1.3.2
+  build_runner: ^2.4.5
+  riverpod_generator: ^2.2.3
+  freezed: ^2.3.5
+  json_serializable: ^6.7.0
+  retrofit_generator: ^7.0.1
+
+flutter:
+  generate: true # For localization
+  uses-material-design: true

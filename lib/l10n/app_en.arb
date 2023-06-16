@@ -1,0 +1,10 @@
+{
+  "appName": "Arcella",
+  "defaultErrorMessage": "An error occurred, please try again later.",
+  "realTime": "Real time",
+  "from": "From",
+  "to": "To",
+  "amount": "Amount",
+  "validatorRequiredField": "This field is required",
+  "swap": "Swap"
+}

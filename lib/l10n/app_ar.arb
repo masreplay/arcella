@@ -1,0 +1,10 @@
+{
+    "appName": "ارسيلا",
+    "defaultErrorMessage": "حدث خطأ ما, يرجى المحاولة مرة أخرى",
+    "validatorRequiredField": "هذا الحقل مطلوب",
+    "realTime": "حفظ الوقت الحقيقي",
+    "from": "من",
+    "to": "إلى",
+    "amount": "القيمة",
+    "swap:": "تبديل"
+}
